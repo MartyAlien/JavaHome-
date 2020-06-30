@@ -1,2 +1,2 @@
-# JavaHome-
-The home will hand all java project
+# Web课程设计
+本页只是为了保持所设计的个人博客完整性
